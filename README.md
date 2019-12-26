@@ -1,10 +1,10 @@
 # Data-Analysis-Project
 ## By Manal Al-Jadaan
 
-## Overview
-This Project analyze  no show patients dataset using the Python libraries NumPy, pandas, and Matplotlib and then ommunicate the findings about it.
+## Project Overview
+This Project analyze  no show patients dataset using the Python libraries NumPy, pandas, and Matplotlib and then communicate the findings about it.
 
-## Goal
+## Project Goal
 -Going through all the steps involved in a typical data analysis process
 
 -Posting questions that can be answered with a given dataset and then communicating the results of analysis
